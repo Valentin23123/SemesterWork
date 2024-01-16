@@ -1,0 +1,2 @@
+Refnum: 4324232, Name: Valentin Petrov, Type: Apartment, Region: Izgrev, Exposure: Iug, Price: 400000, Area: 300, NumberOfRooms: 2, Floor: 3, Status: sold
+Refnum: 34324234, Name: Georgi Petrov, Type: Home, Region: Izgrev, Exposure: East, Price: 300000, Area: 200, NumberOfRooms: 3, Floor: 2, Status: sold
